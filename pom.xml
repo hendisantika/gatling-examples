@@ -19,9 +19,9 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <encoding>UTF-8</encoding>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.12.7</scala.version>
         <scala.compat.version>2.11</scala.compat.version>
-        <gatling.version>2.1.7</gatling.version>
+        <gatling.version>3.0.0</gatling.version>
         <gatling-plugin.version>2.1.7</gatling-plugin.version>
         <gatling.simulations.package>com.hendisantika.gatling.simulations.simulations.HttpSimulation1</gatling.simulations.package>
         <gatling.simulation.name>HttpSimulation1</gatling.simulation.name>
